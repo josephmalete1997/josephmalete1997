@@ -28,3 +28,4 @@
     <img src="icons/socket.png" width="40" alt="socket image">
 </div>
 </div>
+</div>
