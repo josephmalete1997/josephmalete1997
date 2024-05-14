@@ -1,6 +1,7 @@
-<img src="https://holisitclearning.com/static/media/Front-end_Developer.8e8fc63a21e6eaa925b4.gif" alt="cover image" width="300">
-
-**josephmalete1997/josephmalete1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; align-items: center;">
+    <img src="https://holisitclearning.com/static/media/Front-end_Developer.8e8fc63a21e6eaa925b4.gif" alt="cover image" width="100">
+    <span>Text that you want to align horizontally with the image</span>
+</div>
 
 Here are some ideas to get you started:
 
