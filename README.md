@@ -1,6 +1,6 @@
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items:left;">
     <img src="https://holisitclearning.com/static/media/Front-end_Developer.8e8fc63a21e6eaa925b4.gif" alt="cover image" width="200">
-    <span>Text that you want to align horizontally with the image</span>
+    <span style="display: flex; align-items:left; position:absolute;">Text that you want to align horizontally with the image</span>
 </div>
 
 Here are some ideas to get you started:
