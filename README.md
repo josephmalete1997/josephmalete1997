@@ -1,9 +1,4 @@
-### Hi there 👋
-<style>
-  body{
-    background:black;
-  }
-</style>
+![cover image](https://holisitclearning.com/static/media/Front-end_Developer.8e8fc63a21e6eaa925b4.gif)
 <!--
 **josephmalete1997/josephmalete1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
