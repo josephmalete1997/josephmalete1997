@@ -1,5 +1,5 @@
 <img src="https://holisitclearning.com/static/media/Front-end_Developer.8e8fc63a21e6eaa925b4.gif" alt="cover image" width="300">
-<!--
+
 **josephmalete1997/josephmalete1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
