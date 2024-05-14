@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-    <img src="https://holisitclearning.com/static/media/Front-end_Developer.8e8fc63a21e6eaa925b4.gif" alt="cover image" width="100">
+    <img src="https://holisitclearning.com/static/media/Front-end_Developer.8e8fc63a21e6eaa925b4.gif" alt="cover image" width="200">
     <span>Text that you want to align horizontally with the image</span>
 </div>
 
