@@ -1,13 +1,17 @@
 <h2>Tech Stack:</h2>
 <h3>UI/UX Design</h3>
+<div style="display:flex;">
     <img src="icons/icons8-adobe-flash.gif" alt="flash image">
     <img src="icons/icons8-photoshop.gif" alt="photoshop image">
     <img src="icons/icons8-figma.gif" alt="photoshop image">
+</div>
 <h3>Front-End Tools</h3>
+<div style="display:flex;">
     <img src="icons/icons8-html.svg" alt="html image">
     <img src="icons/icons8-css.svg" alt="css image">
     <img src="icons/icons8-javascript.gif" alt="javascript image">
     <img src="icons/webpack.webp" width="40" alt="webpack image">
+</div>
 <h3>Back-End Tools</h3>
 <div style="display:flex;">
     <img src="icons/icons8-node-js.svg" alt="node js image">
