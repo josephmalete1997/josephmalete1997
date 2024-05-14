@@ -36,7 +36,7 @@
     <img src="icons/icons8-bash-50.png" alt="bash image">
 </div>
 </td>
-<td><img src="icons/jasmine.png" alt="jasmine image">
-    <img src="icons/Jest.svg" alt="jest image">
+<td><img src="icons/jasmine.png" width="40" alt="jasmine image">
+    <img src="icons/Jest.svg" width="40" alt="jest image">
 </td>
 </table>
