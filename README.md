@@ -1,10 +1,4 @@
-<div style="display: flex; align-items:left;">
-    <img src="https://holisitclearning.com/static/media/Front-end_Developer.8e8fc63a21e6eaa925b4.gif" alt="cover image" width="200">
-    <span style="display: flex; align-items:left; position:absolute;">Text that you want to align horizontally with the image</span>
-</div>
-
-Here are some ideas to get you started:
-
+<h1>Hi, I am Joseph</h1>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
