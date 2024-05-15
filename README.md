@@ -1,5 +1,5 @@
-## Hi, I am Joseph a full stack developer from South Africa
 
+![gif image](https://imarticus.org/blog/wp-content/uploads/2020/09/gtr.gif)
 <h2>Tech Stack</h2>
 
 <table>
