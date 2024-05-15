@@ -1,9 +1,6 @@
-<table  style="border:none;">
-<tr  style="border:none;">
-    <td>
-  <img src="icons/computers.svg" width="500" alt="gifimage">
-    </td>
-    <td>
+  <div  style="display:flex;">
+  <img src="icons/computers.svg" width="200" alt="gifimage">
+    <p>
         I am dedicated full stack developer located in Bela-Bela, Limpopo province,
          South Africa, with a strong <br>
               commitment to delivering visually engaging, responsive,<br>
@@ -12,11 +9,9 @@
                teamwork and am eager to contribute my skills to new
               projects. Currently seeking exciting job opportunities<br>
                and eager to continue expanding my knowledge
-              through learning experiences.</td>
-
-</tr>
-<tr></table>
-
+              through learning experiences.</p>
+<p>
+</div>
 <br>
 
 <h2>Tech Stack :</h2>
