@@ -1,5 +1,15 @@
+<table>
+<tr>
+    <td>![gif image](https://imarticus.org/blog/wp-content/uploads/2020/09/gtr.gif)</td>
+    <td> I am dedicated full stack developer located in Bela-Bela, Limpopo province, South Africa, with a strong
+              commitment to delivering visually engaging, responsive, and functional websites. Known for my disciplined
+              work ethic and creativity, I thrive on collaborative teamwork and am eager to contribute my skills to new
+              projects. Currently seeking exciting job opportunities and eager to continue expanding my knowledge
+              through learning experiences.</td>
+</tr>
+<tr>
 
-![gif image](https://imarticus.org/blog/wp-content/uploads/2020/09/gtr.gif)
+
 <h2>Tech Stack</h2>
 
 <table>
