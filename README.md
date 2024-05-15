@@ -1,7 +1,8 @@
 <table>
 <tr>
     <td>
-    <img src="icons/icons8-express-js.svg" alt="express image">
+![Uploading image.png…]()
+
     </td>
     <td> 
         I am dedicated full stack developer located in Bela-Bela, Limpopo province, South Africa, with a strong
