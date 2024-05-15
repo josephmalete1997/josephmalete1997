@@ -1,7 +1,7 @@
 <table>
 <tr>
     <td>
-  <img src="icons/computers.svg" alt="gifimage">
+  <img src="icons/computers.svg" width="500" alt="gifimage">
     </td>
     <td>
         I am dedicated full stack developer located in Bela-Bela, Limpopo province, South Africa, with a strong
