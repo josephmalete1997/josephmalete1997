@@ -1,3 +1,5 @@
+## Hi, I am Joseph a full stack developer from South Africa
+
 <h2>Tech Stack</h2>
 
 <table>
