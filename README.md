@@ -1,14 +1,22 @@
-  <center><img src="icons/computers.svg" width="200" alt="gifimage"></center>
-   
+<table  style="border:none;">
+<tr  style="border:none;">
+    <td>
+  <img src="icons/computers.svg" width="500" alt="gifimage">
+    </td>
+    <td>
         I am dedicated full stack developer located in Bela-Bela, Limpopo province,
-         South Africa, with a strong 
-              commitment to delivering visually engaging, responsive,
+         South Africa, with a strong <br>
+              commitment to delivering visually engaging, responsive,<br>
                and functional websites. Known for my disciplined
               work ethic and creativity, I thrive on collaborative
                teamwork and am eager to contribute my skills to new
               projects. Currently seeking exciting job opportunities
                and eager to continue expanding my knowledge
-              through learning experiences.
+              through learning experiences.</td>
+
+</tr>
+<tr></table>
+
 <br>
 
 <h2>Tech Stack :</h2>
