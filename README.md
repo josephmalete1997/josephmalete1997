@@ -11,9 +11,11 @@
               through learning experiences.</td>
 
 </tr>
-<tr>
+<tr></table>
 
-<h2>Tech Stack</h2>
+<br>
+
+<h2>Tech Stack :</h2>
 
 <table>
 <th>UI/UX Design</th>
