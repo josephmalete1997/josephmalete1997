@@ -1,5 +1,5 @@
-<table>
-<tr>
+<table  style="border:none;">
+<tr  style="border:none;">
     <td>
   <img src="icons/computers.svg" width="500" alt="gifimage">
     </td>
